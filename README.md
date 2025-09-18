@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Repository: [GitHub Repository](https://github.com/noah-d-a/Blog-preview-card---Solution)
-- Live Site URL: [Add live site URL here](https://noah-d-a.github.io/Blog-preview-card---Solution)
+- Live Site URL: [GitHub Live Site](https://noah-d-a.github.io/Blog-preview-card---Solution)
 
 ## My process
 
